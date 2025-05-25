@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm ArgonarioD, working as a software engineer at a internet company with a primary focus on Java Web (though most of my public GitHub repositories showcase other languages/technologies).
+I'm ArgonarioD, working as a software engineer at an internet company with a primary focus on building scalable Java Web apps and frameworks for innovative e-commerce platforms.
+
+_(Though most of my public GitHub repositories showcase other languages/technologies)_
 
 - 👨🏻‍💻By day: Java Web
 - 🏠By night: IM Chatbot, Game, Game Modding, and collecting ideas for big things!
